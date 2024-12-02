@@ -5,6 +5,7 @@ Domain : MACHINE LEARNING
 Duratrion : 20-NOV-2024 TO 20-DEC-2024
 
 **PROJECT OVERVIEW**
+Title :- BOSTON HOUSING PRICE PREDICTION
 
  1 -> Data collection :-
       The dataset is boston housing price prediction extracted from the kaggle website which consist of four labels 1)RM, 2)LSTAT,	3)PTRATIO and	4)MEDV.
